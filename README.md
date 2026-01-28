@@ -1,6 +1,6 @@
 # AI Agent 软件工程哲学
 
-[English Version](README_en.md) | **中文文档**
+**[📖 English Version](README_en.md)** | **中文文档**
 
 ## 本 skill 受以下灵感来源
 
